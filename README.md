@@ -21,4 +21,4 @@ Referencias Bibliográficas
 Blancarte, O. (2016). Introducción a los Patrones de Diseño (1.a ed.). Oscar Javier Blancarte Iturralde.
 	https://reactiveprogramming.io/book-demos/Introduccion-a-los-patrones-de-dise%c3%b1o.pdf
 	
-![Screenshot](ClassDiagram.jpg)
+![Screenshot](ClassDiagram.PNG)
