@@ -1,4 +1,4 @@
-# casoestudio3
+# Casoestudio3
 
 					Iterator
 
@@ -16,9 +16,12 @@ next: Regresa el siguiente elemento de la estructura de datos.
 
 ![Screenshot](IteratorDiagram.jpg)
 
+# UML implementado 
+
+![Screenshot](ClassDiagram.PNG)
+
 Referencias Bibliográficas
 
 Blancarte, O. (2016). Introducción a los Patrones de Diseño (1.a ed.). Oscar Javier Blancarte Iturralde.
 	https://reactiveprogramming.io/book-demos/Introduccion-a-los-patrones-de-dise%c3%b1o.pdf
 	
-![Screenshot](ClassDiagram.PNG)
